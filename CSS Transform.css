@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+.box{
+    width: 400px;
+    height: 400px;
+    background-color: tomato;
+    margin: auto;
+    position :relative;
+    transform:scale(.5) ;
+    transform: scaleY(1);
+}
+.box h3{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    position :relative;
+    top: 40%;
+}
