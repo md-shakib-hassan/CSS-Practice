@@ -1,0 +1,14 @@
+body{
+    font-family: sans-serif;
+
+}
+.parent p{
+    color: black;
+}
+
+p{
+    color: red;
+}
+#test p {
+    color: violet;
+}
